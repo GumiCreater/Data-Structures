@@ -1,5 +1,3 @@
-
-
 class BinaryTree():
     def __init__(self, NewData):  # 构造函数 设定根的数据
         self.data = NewData

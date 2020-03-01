@@ -1,7 +1,7 @@
 from Queue import Queue
 
 
-'''图数据结构的实现，包含邻接表和邻接矩阵表示方式'''
+'''图数据结构的实现，包含邻接表和邻接矩阵两种表示方式'''
 class Vertex():  # 顶点类 存放结点的值 和结点的所有邻点信息
     def __init__(self, key):
         self.key = key
