@@ -1,5 +1,4 @@
 
-
 def BinarySearch(List, item):  # 二分法查找
     front = 0
     rear = len(List) - 1
